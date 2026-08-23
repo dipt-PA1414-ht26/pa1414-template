@@ -2,11 +2,11 @@
 
 ## How to Use This Template
 
-1. Click **"Use this template"** above to create your own repository inside the **dipt-PA1414-2026** organisation.
+1. Click **"Use this template"** above to create your own repository inside the **dipt-PA1414-ht26** organisation.
 2. Set visibility to **Private**.
 3. Name it: **PA1414-\<your BTH email prefix\>-\<project abbreviation\>-\<customer code\>**
    Example: `PA1414-naad25-INVT-ACM`
-   Your BTH email prefix is the part before `@` in your BTH email (e.g. `naad25` for `naad25@student.bth.se`). Your project abbreviation and customer code will be shared on Canvas by the start of Week 36.
+   Your BTH email prefix is the part before `@` in your BTH email (e.g. `zxcv25` for `zxcv25@student.bth.se`). Your project abbreviation and customer code will be shared on Canvas by the start of Week 36.
 4. Once your repository is created, **delete this "How to Use This Template" section** and replace everything below it with your own project description.
 5. Set up your backlog as Issues and your Project board, following the rules further down this README.
 
