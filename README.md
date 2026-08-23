@@ -59,13 +59,12 @@ Write them in this order:
 
 ### 2. Project Board (the backlog itself)
 
-Add every Issue to this repository's Project board. The board is your backlog, not the issue text. For each item, fill in the three fields already set up on the board:
+Add every Issue to a Project board. The board is your backlog, not the issue text.
 
-- **Priority** — Must / Should / Could
-- **Estimated Effort** — in hours
-- **Sprint** — 1, 2, or 3
+Your repository does not come with a board already set up — see **[PROJECT_BOARD.md](PROJECT_BOARD.md)** for step-by-step instructions on creating your board and setting up the required fields (Priority, Estimated Effort, Sprint). 
 
-Keep the board updated throughout the course. As you complete an item, mark its Issue as done.
+You'll need a working board by the end of Sprint 1, as Status Report 3 requires it.
+
 
 ---
 
