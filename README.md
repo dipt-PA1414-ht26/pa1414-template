@@ -1,48 +1,80 @@
-# PA1414 — Setting Up Your Project Repository
+# PA1414 Software Engineering Project
 
-Follow these steps in order. Don't skip the two submission steps at the start
-and end — without them, staff can't grant you access or verify your repo exists.
+## How to Use This Template
 
-## Before you start: submit your GitHub username
+1. Click **"Use this template"** above to create your own repository inside the **dipt-PA1414-2026** organisation.
+2. Set visibility to **Private**.
+3. Name it: **PA1414-\<your BTH email prefix\>-\<project abbreviation\>-\<customer code\>**
+   Example: `PA1414-naad25-INVT-ACM`
+   Your BTH email prefix is the part before `@` in your BTH email (e.g. `naad25` for `naad25@student.bth.se`). Your project abbreviation and customer code will be shared on Canvas by the start of Week 36.
+4. Once your repository is created, **delete this "How to Use This Template" section** and replace everything below it with your own project description.
+5. Set up your backlog as Issues and your Project board, following the rules further down this README.
 
-1. If you don't have a GitHub account yet, create one at github.com/join.
-2. Submit your **GitHub username** via the Canvas assignment "GitHub Username Submission."
-3. Wait for an email or GitHub notification inviting you to the `dipt-pa1414-2026`
-   organization. **You cannot create your repo until you accept this invite.**
-   This usually takes 1–2 working days after you submit your username — if it's
-   been longer, contact course staff.
-
-## Step 1: Accept the organization invite
-Check your email or GitHub notifications for an invite to `dipt-pa1414-2026`, and click **Accept**.
-
-## Step 2: Open the template
-Go to: `github.com/dipt-pa1414-2026/pa1414-template`
-Click the green **Use this template** button → **Create a new repository**.
-
-## Step 3: Set Owner to the organization
-On the create-repository page, find the **Owner** dropdown near the top.
-It defaults to your personal account — **change it to `dipt-pa1414-2026`**.
-This is the step most people miss. Double-check it before continuing.
-
-## Step 4: Name your repository
-Use this exact format: `pa1414-<your-student-id>`
-Example: `pa1414-bth-anna01`
-Use your student ID, not your name.
-
-## Step 5: Set visibility and create
-Select **Private** (not Public), then click **Create repository**.
-You do not need to add anyone as a collaborator or team member — course
-staff already have access automatically.
-
-## After you finish: submit your repo link
-Submit the URL of your new repo (e.g. `https://github.com/dipt-pa1414-2026/pa1414-bth-anna01`)
-via the Canvas assignment "Repo Link Submission." This confirms your repo was
-created correctly and lets staff match it to your name in our records.
+Your Technical Reviewer already has read access to this repository through the organisation's review team. You do not need to add anyone manually.
 
 ---
 
-## Working on your project
-See [docs/user_stories.md](docs/user_stories.md) for how to write your user
-stories and acceptance criteria, and commit regularly — see the course page
-for the expected commit cadence and desk review dates (Weeks 38, 40, and the
-oral demo in Week 42).
+## Project Description
+
+**Project Name:** *[Your project name]*
+
+**Customer Name:** *[Your customer's name]*
+
+**Student Full Name:** *[Your full name. This helps match your repository to you, even if your GitHub handle does not identify you.]*
+
+### Project Aim and Objectives
+
+*[A short description of your project's goals and benefits. Bullet points or 1–2 paragraphs.]*
+
+### User Personas
+
+| Name | Characteristics | Needs and Expectations | How will they use the system? |
+|---|---|---|---|
+| *[Name]* | *[Age, background, technical skill level, etc.]* | *[What they need from the system]* | *[How they'll interact with it]* |
+
+### Software Requirements
+
+**Functional Requirements**
+- *[Requirement 1]*
+- *[Requirement 2]*
+
+**Non-Functional Requirements**
+- *[Requirement 1]*
+- *[Requirement 2]*
+
+---
+
+## Your Backlog
+
+Your backlog lives in two places, working together:
+
+### 1. GitHub Issues (the content)
+
+For every user story, feature, and task, create a GitHub Issue with a clear title and description. Use the issue template provided in this repository (see `.github/ISSUE_TEMPLATE/`).
+
+Write them in this order:
+1. All **user stories** first (format: *"As [a user], I want [action] so that [goal]"*)
+2. Then all **features**
+3. Then all **tasks**
+
+### 2. Project Board (the backlog itself)
+
+Add every Issue to this repository's Project board. The board is your backlog, not the issue text. For each item, fill in the three fields already set up on the board:
+
+- **Priority** — Must / Should / Could
+- **Estimated Effort** — in hours
+- **Sprint** — 1, 2, or 3
+
+Keep the board updated throughout the course. As you complete an item, mark its Issue as done.
+
+---
+
+## Development
+
+From Week 38 onward:
+- Set up your development environment
+- Commit code regularly
+- Keep your Project board and Issues up to date as you work
+- At the end of each sprint, your work will be demonstrated to the customer at that sprint's Demo
+
+Your repository must remain **Private** for the entire course. This protects your customer's requirements and your own work.
