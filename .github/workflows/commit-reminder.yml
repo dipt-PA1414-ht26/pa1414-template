@@ -45,7 +45,7 @@ jobs:
         with:
           script: |
 
-            const staff = ["docunasir", "drunasir444"]];
+            const staff = ["docunasir", "drunasir444"];
             const { data: collabs } = await github.rest.repos.listCollaborators({
               owner: context.repo.owner,
               repo: context.repo.repo,
