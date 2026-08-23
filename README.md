@@ -71,9 +71,19 @@ You'll need a working board by the end of Sprint 1, as Status Report 3 requires 
 ## Development
 
 From Week 38 onward:
-- Set up your development environment
-- Commit code regularly
-- Keep your Project board and Issues up to date as you work
+- Set up your development environment and start development.
+- You're free to organise your code however works best for you — for example, using `src/` and `docs/` folders, or any other structure. There's no required folder layout; 
 - At the end of each sprint, your work will be demonstrated to the customer at that sprint's Demo
+- Keep this README as the one place that always explains how to install and run your project.
+
 
 Your repository must remain **Private** for the entire course. This protects your customer's requirements and your own work.
+
+---
+
+## Documenting Your Project
+
+Once Sprint 2 begins, add a **User Manual** section to this README, covering:
+- **Installing** — what's needed to set up your project locally (dependencies, environment, etc.)
+- **Running** — how to start/execute the application
+
