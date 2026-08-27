@@ -1,18 +1,4 @@
-# PA1414 Software Engineering Project
-
-## How to Use This Template
-
-1. Click **"Use this template"** above to create your own repository inside the **dipt-PA1414-ht26** organisation.
-2. Set visibility to **Private**.
-3. Name it: **PA1414-\<your BTH email prefix\>-\<project abbreviation\>-\<customer code\>**
-   Example: `PA1414-zxcv25-INVT-ACM`
-   Your BTH email prefix is the part before `@` in your BTH email (e.g. `zxcv25` for `zxcv25@student.bth.se`). Your project abbreviation and customer code will be shared on Canvas by the start of Week 36.
-4. Once your repository is created, **delete this "How to Use This Template" section** and replace everything below it with your own project description.
-5. Set up your backlog as Issues and your Project board, following the rules further down this README.
-
-Your Technical Reviewer already has read access to this repository through the organisation's review team. You do not need to add anyone manually.
-
----
+# PA1414 Software Engineering Project HT26
 
 ## Project Description
 
